@@ -84,4 +84,4 @@ Object creation currently happens one object at a time on the main thread. This 
 
 ## License
 
-No license has been assigned to this repository yet. All rights remain with their respective owners.
+CityScanPCG is released under the MIT License. See LICENSE and THIRD_PARTY_NOTICES.md for upstream attribution and license notices.

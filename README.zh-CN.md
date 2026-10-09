@@ -84,4 +84,4 @@ flowchart LR
 
 ## 许可证
 
-本仓库尚未指定许可证。相关权利仍归各自权利人所有。
+CityScanPCG 使用 MIT 许可证开源。上游来源和许可声明请参阅 LICENSE 与 THIRD_PARTY_NOTICES.md。
